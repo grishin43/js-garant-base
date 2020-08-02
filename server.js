@@ -1,7 +1,7 @@
 class Server {
 
     constructor() {
-        this.host = "http://www.moneysave.pro";
+        this.host = "http://localhost:4200/";
         this.requestType = {
             GET: "GET",
             POST: "POST"
